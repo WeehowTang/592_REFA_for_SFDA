@@ -1,1 +1,1 @@
-
+Train CLIP prompt learner independently towards target domain via unsupervised learning, without source model engagement.
